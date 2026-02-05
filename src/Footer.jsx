@@ -1,12 +1,12 @@
 
 function Footer() {
   return (
-    <footer className="bg-[#1a1a1a] text-white py-12 mt-10">
-      <div className="max-w-4xl mx-auto text-center px-8">
-        <h2 className="text-3xl font-bold mb-4">
+    <footer className="bg-[#1a1a1a] text-white py-10 sm:py-12 mt-8 sm:mt-10">
+      <div className="max-w-4xl mx-auto text-center px-4 sm:px-8">
+        <h2 className="text-2xl sm:text-3xl font-bold mb-3 sm:mb-4">
           Flower<span className="text-[#e55473]">Shop</span>
         </h2>
-        <p className="text-gray-400 text-sm mb-6 max-w-lg mx-auto">
+        <p className="text-gray-400 text-sm mb-5 sm:mb-6 max-w-lg mx-auto px-4">
           Spreading joy one bouquet at a time. Fresh flowers, heartfelt moments, 
           and a passion for bringing nature's beauty to your doorstep.
         </p>
