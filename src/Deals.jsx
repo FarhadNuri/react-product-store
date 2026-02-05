@@ -9,7 +9,7 @@ function Deals() {
             Hot Deal ! Sale Up To 25% <span className="text-[#e55473]">Off</span>
           </h2>
           <p className="text-gray-500 text-sm mb-6">
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+            Brighten someone's day with our stunning seasonal arrangements. Limited time offer — don't miss out!
           </p>
           <button className="px-8 py-3 bg-[#e55473] hover:bg-[#d44363] text-white rounded-full font-semibold transition-colors cursor-pointer">
             Sign Up

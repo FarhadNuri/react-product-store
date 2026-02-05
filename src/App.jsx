@@ -1,11 +1,10 @@
-import ItemCards from "./ItemCards";
-import Navbar from "./Navbar";
 import Hero from "./Hero";
 import FeaturedFlowers from "./FeaturedFlowers";
 import Support from "./Support";
 import Deals from "./Deals";
 import Instagram from "./Instagram";
 import NewsLetter from "./NewsLetter";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -16,6 +15,7 @@ function App() {
       <Deals />
       <Instagram />
       <NewsLetter />
+      <Footer />
     </div>
   )
 }

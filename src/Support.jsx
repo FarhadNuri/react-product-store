@@ -4,7 +4,7 @@ import group59 from './assets/Group 59.png';
 
 function Support() {
   return (
-    <section className="py-16 px-16">
+    <section className="py-10 px-16">
       <div className="flex justify-center gap-32 items-center py-12 bg-gray-100 rounded-lg max-w-6xl mx-auto">
         <div className="flex flex-col items-center">
           <img src={group57} alt="Same Day Delivery" className="w-16 h-16 mb-4" />
